@@ -1,7 +1,3 @@
----
-title: Ripita Documentation
----
+# Ripita Documentation
 
-Hello world!
-
-Write some words here!
+We will write all Ripita Feature and Documentation here
